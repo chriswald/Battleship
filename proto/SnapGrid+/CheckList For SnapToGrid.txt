@@ -1,0 +1,8 @@
+--- Done ---
+Inbounds check
+Creates array of buildings
+
+--- Bugs ---
+Buildings location after index 0 are not correct
+Rotating the building does not rotate values only image
+Rotating before the building is placed cause null pointer error
